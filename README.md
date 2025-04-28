@@ -1,4 +1,4 @@
-# 🧾 Conversion Analysis Project — AppsForBharat
+# 🧾 Conversion Analysis Application
 
 This project performs a **conversion rate analysis** at both the **store** and **SKU** level to provide actionable insights and recommendations to improve sales performance.
 
@@ -6,18 +6,15 @@ This project performs a **conversion rate analysis** at both the **store** and *
 
 ### Github Repository Link of Complete Project 
 
-[https://github.com/akshatvermavi/conversion_analysis_project_AppsForBharat](https://github.com/akshatvermavi/conversion_analysis_project_AppsForBharat)
+[https://github.com/akshatvermavi/conversion_analysis_Appication](https://github.com/akshatvermavi/conversion_analysis_Appication)
 
-### Project Drive Link
-
-[https://drive.google.com/drive/folders/1KMSgIuIb8kPFZRP8djsOhBKJN8MQWo9M?usp=sharing](https://drive.google.com/drive/folders/1KMSgIuIb8kPFZRP8djsOhBKJN8MQWo9M?usp=sharing)
 
 ---
 
 ## 📁 Project Structure
 
 ```
-conversion_analysis_project_AppsForBharat/
+conversion_analysis_Application/
 │
 ├── data/
 │   └── store_sku_ba_dataset.csv       # Provided dataset
